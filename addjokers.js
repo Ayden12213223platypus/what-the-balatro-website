@@ -1,12 +1,44 @@
 let jokers = [
-  // {
-  //   name: "Joker",
-  //   text: [
-  //     "{C:mult}+4{} Mult"
-  //   ],
-  //   image_url: "img/j_joker.png",
-  //   rarity: "Common"
-  // }
+  {
+    name: "Drip Chicken",
+    text: [
+      "He has {C:attention}money{}, and he give you some"
+    ],
+    image_url: "img/Drip Chicken.png",
+    rarity: "Uncommon"
+  },
+  {
+    name: "Happy, Happy, Happy",
+    text: [
+      "Happy, Happy, Happy, Happy, Happy"
+    ],
+    image_url: "img/Happy Happy Happy.png",
+    rarity: "Rare"
+  },
+  {
+    name: "Look gang a Joker",
+    text: [
+      "We'll never know what this Joker does"
+    ],
+    image_url: "img/Look gang a door.png",
+    rarity: "Common"
+  },
+  {
+    name: "The money is his now",
+    text: [
+      "He gives you {C:hearts}smth{} for {C:blue}exchange{}"
+    ],
+    image_url: "img/The money is his now.png",
+    rarity: "Common"
+  },
+  {
+    name: "Wal ter",
+    text: [
+      "New {C:blue}mission{}: pet {C:red}doggo{}"
+    ],
+    image_url: "img/Walter.png",
+    rarity: "Common"
+  }
 ]
 
 // works the same. 
